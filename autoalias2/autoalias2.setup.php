@@ -5,10 +5,10 @@ Code=autoalias2
 Name=AutoAlias 2
 Category=navigation-structure
 Description=Creates page alias from title if a user leaves it empty
-Version=2.1.1
-Date=2012-04-18
+Version=2.1.2
+Date=2012-05-16
 Author=Trustmaster
-Copyright=All rights reserved (c) 2010-2012, Vladimir Sibirov.
+Copyright=(c) Cotonti Team 2010-2013
 Notes=BSD License
 Auth_guests=R
 Lock_guests=W12345A
@@ -27,5 +27,3 @@ lowercase=05:radio::0:Cast to lower case
 ==================== */
 
 defined('COT_CODE') or die('Wrong URL');
-
-?>
